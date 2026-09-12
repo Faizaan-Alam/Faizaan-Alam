@@ -35,6 +35,12 @@ Available for Software Engineer / Full Stack Intern roles · Open to remote and 
 
 ## Projects
 
+### [Pratibimb 4.0](https://github.com/Faizaan-Alam/pratibimb) — Digital Magazine of IEEE BVCOE
+`React` `Vite` `JavaScript` `Tailwind CSS` `DaisyUI` `React Router`
+
+- Designed and built the digital home of Pratibimb 4.0, the annual magazine of the IEEE Student Branch at Bharati Vidyapeeth's College of Engineering.
+- Shipped a themeable editorial site with an issue archive, in-browser PDF reader, and a file-swap workflow so editors can add editions and team photos without changing React code.
+
 ### [ModelJudge AI](https://github.com/Faizaan-Alam/model-judge-Ai) — Multi-Service ML Model Evaluation Platform
 `React` `TypeScript` `Express` `Socket.io` `FastAPI` `MongoDB` `Redis` `MinIO` `Docker Compose` `GitHub Actions`
 
@@ -67,7 +73,7 @@ Live: [qaafila-bvp.vercel.app](https://qaafila-bvp.vercel.app/)
 | | |
 |---|---|
 | **Languages** | JavaScript · TypeScript · Python · Java · C++ · C |
-| **Frontend** | React · Redux · Zustand · Context API · Tailwind CSS · Vite · HTML/CSS |
+| **Frontend** | React · Redux · Zustand · Context API · Tailwind CSS · DaisyUI · Vite · HTML/CSS |
 | **Backend** | Node.js · Express.js · FastAPI · REST APIs · Socket.io · JWT |
 | **Data / Infra** | MongoDB · Redis · MinIO · Docker · Docker Compose · BullMQ |
 | **Tools** | Git · GitHub Actions · pytest |
@@ -92,7 +98,7 @@ Hansraj Model School
 - **Chairperson, IEEE CS Subchapter** — led events including Innovicon and WIE Week; organized UXplore and FunIEEE.
 - **President, Qaafila Literature Society** — conducted poetry workshop "Main Shayar Toh Nahi"; organized literary events.
 - **College Athletics Team Captain** — 100m & 200m sprinter (Silver in 100m, Gold in mixed relay, Bronze in 200m).
-- **Chief Editor** of Pratibimb (technical magazine) and **Content Writer** for Saransh (CSE department magazine).
+- **Chief Editor, Pratibimb 4.0** (IEEE BVCOE technical magazine) and built its public website ([pratibimb](https://github.com/Faizaan-Alam/pratibimb)); **Content Writer** for Saransh (CSE department magazine).
 
 ---
 
