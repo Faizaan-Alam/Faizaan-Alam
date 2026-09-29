@@ -35,6 +35,15 @@ Available for Software Engineer / Full Stack Intern roles · Open to remote and 
 
 ## Projects
 
+### [Verdant](https://multi-crop-plant-care.vercel.app/) | Multi-Crop Plant Disease Classification and Care
+`Python` `PyTorch` `Swin Transformer` `Flask` `JavaScript` `Bootstrap` `Vercel`
+
+Live: [multi-crop-plant-care.vercel.app](https://multi-crop-plant-care.vercel.app/) · [Source repository (private)](https://github.com/Faizaan-Alam/multi-crop-plant-care)
+
+- Built a plant-care application where users select a crop, upload a leaf image, and receive a predicted condition with practical care guidance. A protected admin workspace provides dataset analytics, training information, evaluation metrics, and reports.
+- Audited 52,360 images across 13 crops and 62 crop-condition labels. Trained a classification head on frozen, pretrained Swin-Tiny features, with 58 supported classes after data-quality filtering.
+- Achieved **94.39% accuracy** and **90.72% macro F1** on a held-out test set of 7,242 images. The system performs single-label classification; detection, segmentation, and trained severity prediction are future work.
+
 ### [Pratibimb 4.0](https://github.com/Faizaan-Alam/pratibimb) — Digital Magazine of IEEE BVCOE
 `React` `Vite` `JavaScript` `Tailwind CSS` `DaisyUI` `React Router`
 
